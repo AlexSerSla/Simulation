@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.entity.Entity;
+
 public class Main {
     public static void main(String[] args) {
         Map map = new Map();

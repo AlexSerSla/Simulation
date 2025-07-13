@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.entity.Entity;
+
 import java.util.HashMap;
 
 public class Map {
