@@ -9,7 +9,7 @@ public class Main {
 
         map.setEntity(new Coordinates(5, 7), new Rock(new Coordinates(5, 7)));
 
-        int a = 123;
+        int a = 321;
 
     }
 }
